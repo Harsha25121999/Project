@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 how are you?
+=======
+This is a2 text file belongs to firstbranch
+>>>>>>> firstbranch
