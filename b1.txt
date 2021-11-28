@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi hello this is b1
+=======
+This is b1 text file belongs to secondbranch
+>>>>>>> secondbranch
