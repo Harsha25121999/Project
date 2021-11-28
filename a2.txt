@@ -1,0 +1,2 @@
+This is a2 text file belongs to firstbranch
+This is a2 text file belongs to secondbranch
